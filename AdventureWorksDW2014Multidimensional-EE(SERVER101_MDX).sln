@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdventureWorksDW2014Multidimensional-EE(SERVER101\MDX)", "<Server=SERVER101\MDX;Database=AdventureWorksDW2014Multidimensional-EE;>", "{DD50BA96-1127-4272-8C24-4C9873EA337D}"
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdventureWorksDW2014Multidimensional-EE(SERVER101\MDX)", "<Server=SERVER101\MDX;Database=AdventureWorksDW2014Multidimensional-EE;>", "{6111ADFC-B709-4956-976F-EBA73C0EDE46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DD50BA96-1127-4272-8C24-4C9873EA337D}.Development|Default.ActiveCfg = Development
+		{6111ADFC-B709-4956-976F-EBA73C0EDE46}.Development|Default.ActiveCfg = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {699FBD6F-471D-4A9B-BE6B-831213BD562A}
+		SolutionGuid = {10927B87-CD86-4E86-A035-668125D95013}
 	EndGlobalSection
 EndGlobal
